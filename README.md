@@ -7,6 +7,7 @@ Join us at: https://discord.gg/2z7694aCsM
 
 ## Content
 - Images
+  - [Free Assets](image/free_assets)
   - [Basic Templates](image/templates_basic)
   - [GIMP Templates](image/templates_gimp)
   - [Photoshop Templates](image/templates_psd)
@@ -24,3 +25,4 @@ Join us at: https://discord.gg/2z7694aCsM
 - Rargon Rock
 - master
 - indexoquarto
+- horus
