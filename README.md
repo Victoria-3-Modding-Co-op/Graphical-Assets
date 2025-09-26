@@ -12,6 +12,7 @@ Join us at: https://discord.gg/2z7694aCsM
   - [GIMP Templates](image/templates_gimp)
   - [Photoshop Templates](image/templates_psd)
   - [Paint.Net Templates](image/templates_psd)
+  - [State Outline Templates](image/state_outlines)
 
 ## Credits
 - Bahmut
@@ -27,3 +28,4 @@ Join us at: https://discord.gg/2z7694aCsM
 - indexoquarto
 - horus
 - hunter00001 (Discord) | AlphaQmaster (Steam)
+- CaesarVincens
