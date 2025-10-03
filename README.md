@@ -8,6 +8,11 @@ Join us at: https://discord.gg/2z7694aCsM
 ## Content
 - Images
   - [Free Assets](image/free_assets)
+    - [Building Icons](image/free_assets/building_icons)
+    - [Coat of Arms](image/free_assets/coat_of_arms)
+    - [Misc Fantasy Icons](image/free_assets/misc_fantasy_icons)
+    - [Prestige Goods](image/free_assets/prestige_goods)
+    - [Timed Modifier Icons](image/free_assets/timed_modifier_icons)
   - [Basic Templates](image/templates_basic)
   - [GIMP Templates](image/templates_gimp)
   - [Photoshop Templates](image/templates_psd)
@@ -30,3 +35,4 @@ Join us at: https://discord.gg/2z7694aCsM
 - hunter00001 (Discord) | AlphaQmaster (Steam)
 - CaesarVincens
 - Spencer
+- SenatorSnowBear

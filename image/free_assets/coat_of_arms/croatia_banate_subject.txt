@@ -1,0 +1,27 @@
+﻿CRO_banate_subject = {
+    # Approximation of the Royal Standard of the Ban of Croatia
+
+    pattern = "pattern_solid.tga"
+    color1 = "red"
+    color2 = "yellow"
+    color3 = "red"
+
+    colored_emblem = {
+        texture = "wb_ce_blank_bg_with_highlights.dds"
+        color2 = "black"
+        color3 = "highlight"
+        instance = { scale = { 1.0 1.0 } position = { 0.5 0.5 } }
+    }
+    colored_emblem = {
+        texture = "wb_ce_guidon.dds"
+        color1 = "red"
+        color2 = "yellow"
+        color3 = "white"
+        instance = { scale = { 1.0 1.0 } position = { 0.5 0.5 } }
+    }
+
+    textured_emblem = {
+        texture = "wb_cro_ban_of_croatia.dds"
+        instance = { scale = { 0.8 0.8 } position = { 0.375 0.48 } }
+    }
+}
