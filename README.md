@@ -37,3 +37,4 @@ Join us at: https://discord.gg/2z7694aCsM
 - Spencer
 - SenatorSnowBear
 - Dylan
+- Shark
